@@ -1,0 +1,2 @@
+# Embedded_Systems_Diploma_Project
+Diploma project integration track
